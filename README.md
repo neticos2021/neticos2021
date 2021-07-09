@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @neticos2021
 - 👀 I’m interested in artificial intelligence applied to thermodynamics and programming
-- 🌱 I’m currently learning thermodynamic engineering
+- 🌱 I’m currently learning thermodynamic
 - 💞️ I’m looking to collaborate in a project related to programming and the study of thermodynamics
 - 📫 How to reach me neticos@gmail.com
 
